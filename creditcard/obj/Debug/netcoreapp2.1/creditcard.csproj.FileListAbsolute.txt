@@ -1,0 +1,11 @@
+C:\Users\opilane\source\repos\creditcard\creditcard\bin\Debug\netcoreapp2.1\creditcard.deps.json
+C:\Users\opilane\source\repos\creditcard\creditcard\bin\Debug\netcoreapp2.1\creditcard.runtimeconfig.json
+C:\Users\opilane\source\repos\creditcard\creditcard\bin\Debug\netcoreapp2.1\creditcard.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\creditcard\creditcard\bin\Debug\netcoreapp2.1\creditcard.dll
+C:\Users\opilane\source\repos\creditcard\creditcard\bin\Debug\netcoreapp2.1\creditcard.pdb
+C:\Users\opilane\source\repos\creditcard\creditcard\obj\Debug\netcoreapp2.1\creditcard.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\creditcard\creditcard\obj\Debug\netcoreapp2.1\creditcard.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\creditcard\creditcard\obj\Debug\netcoreapp2.1\creditcard.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\creditcard\creditcard\obj\Debug\netcoreapp2.1\creditcard.AssemblyInfo.cs
+C:\Users\opilane\source\repos\creditcard\creditcard\obj\Debug\netcoreapp2.1\creditcard.dll
+C:\Users\opilane\source\repos\creditcard\creditcard\obj\Debug\netcoreapp2.1\creditcard.pdb
